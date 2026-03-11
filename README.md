@@ -34,6 +34,7 @@ OPENAI_API_KEY = your-openai-api-key
 ```
 ### 3. Run Backend
 ```bash
+cd backend
 npm run dev
 ```
 ### 4. Test from the postman
